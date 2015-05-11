@@ -138,7 +138,6 @@ After adding the JAR into your project, modify your AndroidManifest.xml file as 
      a) [Add Google Play Services to Eclipse.](http://hmkcode.com/adding-google-play-services-library-to-your-android-app)   
      b) [Add Google Play Services to Android Studio.](http://developer.android.com/google/play-services/setup.html)
 
-Note:: Google Play Services must be compiled against version 6.5 or above.
 	
 5) Add Meta data for Google play service : Add below meta data tag into your AndroidManifest.xml file inside the "application" tag.
 
